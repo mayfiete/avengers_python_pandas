@@ -1,0 +1,7 @@
+
+boto3
+flask
+pandas
+jsonify
+redis
+flask_caching

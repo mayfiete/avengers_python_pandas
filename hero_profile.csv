@@ -1,0 +1,143 @@
+CharacterName,Name,Alias,Alignment,IsGoodGuy,IsTeam,TeamAffiliation,Intelligence,Strength,Speed,Durability,Power,Combat,X,IsSuperior,Rating,X-Factor
+Absorbing Man,Carl Creel,,Bad,0,0,Masters of Evil,50,85,50,95,90,70,1.05,1,73.33,76.9965
+Adam Warlock,Adam Warlock,,Good,1,0,Guardians of the Galaxy,71,86,86,100,100,86,1.1,2,88.17,96.987
+Air-Walker (Gabriel Lan),Gabriel Lan,,Neutral,0,0,Heralds of Galactus,80,85,100,85,100,40,1.1,2,81.67,89.837
+Alpha Flight,Alpha Flight,,Good,1,1,Alpha Flight,90,80,100,75,80,75,1.05,0,83.33,87.4965
+Annihilus,Annihilus,,Bad,0,0,None,90,80,50,60,60,65,1,0,67.5,67.5
+Archangel,Warren Kenneth Worthington III,,Good,1,0,X-Force,85,15,60,65,35,45,1,0,50.83,50.83
+Aurora,Jeanne-Marie Beaubier,,Good,1,0,Alpha Flight,85,10,100,60,75,60,1.05,1,65,68.25
+Avengers,Avengers,,Good,1,1,Avengers,100,100,100,100,100,100,1.3,6,100,130
+Banshee,Sean Cassidy,,Good,1,0,X-Corps,80,10,60,40,65,70,1,0,54.17,54.17
+Banshee (Theresa Rourke),Theresa Rourke,Siryn,Bad,0,0,X-Factor,75,10,50,30,50,45,1,0,43.33,43.33
+Beast,Hank McCoy,,Good,1,0,X-Men,100,50,40,60,45,85,1.05,1,63.33,66.4965
+Black Bolt,Blackagar Boltagon,,Good,1,0,Inhumans,90,70,100,85,100,60,1.1,2,84.17,92.587
+Black Knight (Sir Percy of Scandia),Sir Percy of Scandia,,Good,1,0,Knights of the Round Table,29,29,29,29,43,86,1,0,40.83,40.83
+Black Panther,T'Challa,,Good,1,0,Avengers,95,20,30,60,45,100,1.1,2,58.33,64.163
+Black Widow,Natalia Alianovna Romanova,,Good,1,0,Avengers,43,43,29,43,43,86,1,0,47.83,47.83
+Blastaar,,The Living Bomb Burst,Bad,0,0,None,43,71,71,86,71,57,1,0,66.5,66.5
+Bullseye,,Lester,Bad,0,0,Dark Avengers,29,29,29,29,14,86,1,0,36,36
+Cammi,Cammi,,Good,1,0,United Front,14,14,14,14,14,14,1,0,14,14
+Captain America,Steven Grant Rogers,Nomad,Good,1,0,Avengers,85,20,40,60,60,100,1.05,1,60.83,63.8715
+Captain Britain,Brian Braddock,,Good,1,0,Super Soldiers,90,80,50,60,35,80,1,0,65.83,65.83
+Captain Marvel (Carol Danvers),Carol Danvers,,Good,1,0,Avengers,95,90,75,95,100,90,1.15,3,90.83,104.4545
+Captain Marvel (Genis-Vell),Genis-Vell,Photon,Good,1,0,Thunderbolts,29,71,100,100,86,43,1.1,2,71.5,78.65
+Captain Marvel (Mar-Vell),Mar-Vell,Dr. Walter Lawson,Good,1,0,Avengers,86,86,100,100,100,86,1.15,3,93,106.95
+Colossus,,,Good,1,0,X-Men,57,100,57,100,71,71,1.1,2,76,83.6
+Cyclops,Scott Summers,,Good,1,0,X-Men,71,57,57,57,100,71,1.05,1,68.83,72.2715
+Daredevil,Matthew Michael Murdock,,Good,1,0,Defenders,90,15,35,35,65,100,1.05,1,56.67,59.5035
+Deadpool,Wade Wilson,,Good,1,0,X-Force,85,35,50,100,100,57,1.1,2,71.17,78.287
+Death,Mistress Death,,Bad,0,0,None,100,100,50,100,100,100,1.25,5,91.67,114.5875
+Deathlok,Colonel Luther Manning,,Good,1,0,X-Force,85,35,30,70,40,60,1,0,53.33,53.33
+Defenders,,,Good,1,1,Defenders,90,100,100,100,65,100,1.2,3,92.5,111
+Doctor Doom,Victor Von Doom,,Bad,0,0,Cabal,86,86,71,86,86,57,1,0,78.67,78.67
+Doctor Strange,Stephen Strange,,Good,1,0,Avengers,100,10,15,85,100,60,1.1,2,61.67,67.837
+Drax,Arthur Sampson Douglas,The Destroyer,Good,1,0,Guardians of the Galaxy,14,86,57,100,29,71,1.05,1,59.5,62.475
+Ego,Ego,The Living Planet,Bad,0,0,Elders of the Universe,86,100,100,100,100,29,1.2,4,85.83,102.996
+Elektra,Elektra Natchios,,Good,1,0,The Hand,85,15,30,30,60,100,1.05,1,53.33,55.9965
+Eternity,Inapplicable,,Neutral,0,0,None,100,100,100,100,100,100,1.3,6,100,130
+Falcon,Sam Wilson,,Good,1,0,Avengers,43,43,57,43,43,71,1,0,50,50
+Fantastic Four,,,Good,1,1,Fantastic Four,95,86,71,86,95,60,1.05,2,82.17,86.2785
+Firelord,Pyreus Kril,,Neutral,0,0,Heralds of Galactus,75,65,75,90,55,30,1,0,65,65
+Forgotten One,,,Good,1,0,Eternals,43,43,43,43,43,57,1,0,45.33,45.33
+Galactus,Galan,Devourer of Worlds,Neutral,0,0,Elders of the Universe,100,100,100,100,100,100,1.3,6,100,130
+Gamora,Gamora Zen Whoberi Ben Titan,,Good,1,0,Guardians of the Galaxy,57,71,71,86,14,100,1.05,1,66.5,69.825
+Ghost Rider (Johnny Blaze),"Johnathon ""Johnny"" Blaze",Spirit of Vengeance,Good,1,0,Midnight Sons,43,57,29,100,86,57,1.05,1,62,65.1
+Giant Man,Hank Pym,,Good,1,0,The Ultimates,95,85,40,65,55,45,1.05,1,64.17,67.3785
+Guardian,Dr. James McDonald Hudson,,Good,1,0,Alpha Flight,90,65,65,75,80,75,1,0,75,75
+Guardians of the Galaxy,,,Good,1,1,Guardians of the Galaxy,95,86,100,100,100,100,1.25,5,96.83,121.0375
+Hawkeye,Clint Barton,,Good,1,0,Avengers,80,15,25,10,30,80,1,0,40,40
+Hulk,Bruce Banner,,Good,1,0,Avengers,95,100,65,100,100,85,1.2,4,90.83,108.996
+Human Torch,Johnny Storm,,Good,1,0,Fantastic Four,57,57,71,57,86,57,1,0,64.17,64.17
+Hydra,,,Bad,0,1,Hydra,50,50,50,50,50,50,1,0,50,50
+Hyperion (Earth-712),Mark Milton,,Good,1,0,Thunderbolts,29,86,71,100,43,57,1.05,1,64.33,67.5465
+Illuminati,,,Bad,0,1,Illuminati,50,50,50,50,50,50,1,0,50,50
+Inhumans,,,Good,1,1,Inhumans,90,75,100,85,100,100,1.15,2,91.67,105.4205
+Invisible Woman,Susan Storm Richards,,Good,1,0,Fantastic Four,95,10,30,85,95,60,1.1,2,62.5,68.75
+Iron Fist (Danny Rand),Danny Rand,,Good,1,0,Defenders,71,71,71,86,57,100,1,1,76,76
+Iron Man,Tony Stark,,Good,1,0,Avengers,86,86,71,86,86,43,1,0,76.33,76.33
+Jessica Jones,Jessica Jones,,Good,1,0,Defenders,45,80,50,70,20,55,1,0,53.33,53.33
+Living Tribunal,Living Tribunal,,Neutral,0,0,None,100,100,100,100,100,100,1.3,6,100,130
+Loki,Loki Laufeyson,,Bad,0,0,Cabal,57,71,43,57,71,29,1,0,54.67,54.67
+Luke Cage,Carl Lucas,,Good,1,0,Defenders,29,57,29,71,14,57,1,0,42.83,42.83
+Magus (Adam Warlock),Adam Warlock,,Bad,0,0,Universal Church of Truth,86,86,86,86,100,57,1.05,1,83.5,87.675
+Mantis,,,Good,1,0,Guardians of the Galaxy,85,10,35,80,100,80,1.05,1,65,68.25
+Maria Hill,Maria Hill,,Good,1,0,S.H.I.E.L.D.,14,14,14,14,14,14,1,0,14,14
+Medusa,Medusalith Amaquelin Boltagon,,Good,1,0,Inhumans,86,29,86,57,14,57,1,0,54.83,54.83
+Mephisto,,,Bad,0,0,None,95,85,35,95,100,45,1.15,3,75.83,87.2045
+Moondragon,Heather Douglas,,Good,1,0,Guardians of the Galaxy,57,43,57,57,100,71,1.05,1,64.17,67.3785
+Mr. Fantastic,Reed Richards,,Good,1,0,Fantastic Four,86,43,29,86,14,29,1,0,47.83,47.83
+Namor,Namor McKenzie,,Good,1,0,X-Men,57,86,71,86,14,57,1,0,61.83,61.83
+Namorita,Namorita Prentiss,,Good,1,0,Atlanteans,80,75,50,70,40,70,1,0,64.17,64.17
+Nebula,Nebula,,Bad,0,0,United Front,85,55,15,50,45,60,1,0,51.67,51.67
+Nightcrawler,Kurt Wagner,,Good,1,0,X-Men,80,10,80,15,80,80,1,0,57.5,57.5
+Northstar,Jean-Paul Beaubier,,Good,1,0,Alpha Flight,80,20,85,60,65,70,1,0,63.33,63.33
+Nova,Richard Rider,,Good,1,0,Guardians of the Galaxy,43,57,71,71,86,57,1,0,64.17,64.17
+Nova (Sam Alexander),Samuel Alexander,,Good,1,0,Nova Corps,43,71,86,43,57,71,1,0,61.83,61.83
+Peter Quill,Peter Quill,Star-Lord,Good,1,0,Guardians of the Galaxy,85,20,35,50,25,70,1,0,47.5,47.5
+Pip,Prince Pip Gofern,Pip the Troll,Neutral,0,0,Infinity Watch,57,14,14,14,14,29,1,0,23.67,23.67
+Professor X,Charles Francis Xavier,,Good,1,0,X-Men,100,10,15,15,100,35,1.1,2,45.83,50.413
+Psylocke,"Elizabeth ""Betsy"" Braddock",,Good,1,0,X-Force,57,43,43,43,86,86,1,0,59.67,59.67
+Puppet Master,Phillip Masters,,Bad,0,0,None,71,29,29,43,57,57,1,0,47.67,47.67
+Quasar (Wendell Vaughn),Wendell Elvis Vaughn,,Good,1,0,Avengers,57,57,100,86,86,57,1.05,1,73.83,77.5215
+Ravenous,Ravenous,,Bad,0,0,Seekers,43,43,86,86,86,86,1,0,71.67,71.67
+Red Shift,Red Shift,,Neutral,0,0,Heralds of Galactus,29,57,100,86,86,43,1.05,1,66.83,70.1715
+Rhino,Aleksei Mikhailovich Sytsevich,,Bad,0,0,The Firm,65,80,45,90,40,85,1,0,67.5,67.5
+Rick Jones,Richard Milhouse Jones,A-Bomb,Good,1,0,S.H.I.E.L.D.,57,43,43,43,14,71,1,0,45.17,45.17
+Rocket Raccoon,Rocket Raccoon,,Good,1,0,Guardians of the Galaxy,80,5,25,30,30,65,1,0,39.17,39.17
+Ronan,Ronan,The Accuser,Bad,0,0,Accuser Corps,57,86,57,100,100,86,1.1,2,81,89.1
+S.H.I.E.L.D.,,,Good,1,1,S.H.I.E.L.D.,57,43,43,43,14,71,1,0,45.17,45.17
+Sasquatch (Walter Langkowski),Walter Langkowski,Box,Good,1,0,Alpha Flight,90,80,25,60,15,45,1,0,52.5,52.5
+Scarlet Witch,Wanda Maximoff,,Good,1,0,Avengers,43,43,43,43,100,43,1.05,1,52.5,55.125
+She-Hulk (Jennifer Walters),Jennifer Walters,,Good,1,0,Defenders,71,100,57,100,14,86,1.1,2,71.33,78.463
+Silver Surfer,Norrin Radd,,Neutral,0,0,Heralds of Galactus,80,100,100,90,100,35,1.15,3,84.17,96.7955
+Skreet,Skreet,,Neutral,0,0,None,30,50,90,90,75,75,1.05,1,68.33,71.7465
+Skrulls,,,Bad,0,1,Skrulls,43,86,43,86,86,57,1,0,66.83,66.83
+Spider-Man,Peter Parker,,Good,1,0,Avengers,57,57,71,43,57,71,1,0,59.33,59.33
+Star-Lord (Peter Quill),Peter Quill,Star-Lord,Good,1,0,Guardians of the Galaxy,85,20,35,50,25,70,1,0,47.5,47.5
+Stardust,,,Neutral,0,0,Heralds of Galactus,95,85,100,100,100,85,1.2,4,94.17,113.004
+Super-Skrull,ki'rt,,Bad,0,0,United Front,43,86,43,86,86,57,1,0,66.83,66.83
+Tenebrous,Tenebrous,,Neutral,0,0,Proemial Gods,86,100,100,100,100,100,1.25,5,97.67,122.0875
+Thanos,Thanos,,Bad,0,0,,95,95,90,95,95,95,1,0,94.17,94.17
+The Watchers,Uatu,,Neutral,0,0,The Watchers,100,80,70,90,100,60,1.1,2,83.33,91.663
+Thor,Thor Odinson,,Good,1,0,Avengers,29,100,86,100,100,86,1.15,3,83.5,96.025
+Vision,Vision,,Good,1,0,Avengers,100,75,55,95,100,70,1.15,3,82.5,94.875
+Wolverine,Logan,,Good,1,0,X-Men,29,57,50,100,14,100,1.1,2,58.33,64.163
+X-Men,,,Good,1,1,X-Men,100,100,80,100,100,100,1.25,5,96.67,120.8375
+Ancient One,Yan,,Good,1,0,None,95,75,70,85,95,100,1.15,3,86.67,99.6705
+Beta-Ray Bill,Bill,,Good,1,0,Star Masters,29,100,100,86,86,71,1.1,2,78.67,86.537
+Beyonder,,Kosmos,Good,1,0,Beyonders,57,100,100,100,100,43,1.2,4,83.33,99.996
+Blue Marvel,Adam Brashear,,Good,1,0,Beyonders,95,100,85,95,100,50,1.2,4,87.5,105
+Cable,Nathan Summers,,Good,1,0,X-Men,95,50,25,60,100,80,1.1,2,68.33,75.163
+Carnage,Cietus Kasady,,Bad,0,0,None,57,71,43,71,43,57,1,0,57,57
+Clea,Clea,,Good,1,0,Defenders,57,29,100,29,57,29,1,0,50.17,50.17
+Cosmo (dog),Spacedog,,Good,1,0,Guardians of the Galaxy,14,14,14,14,14,14,1,0,14,14
+Count Nefaria,Count Luchino Nefaria,Dream Maker,Bad,0,0,Legion of the Universe,100,100,86,100,100,100,1.25,5,97.67,122.0875
+Doctor Octopus,Otto Octavius,,Bad,0,0,Sinister Six,86,29,29,29,14,57,1,0,40.67,40.67
+Dormammu,Dormammu,,Bad,0,0,None,95,95,85,100,100,80,1.2,4,92.5,111
+Gladiator (Kallark),Kallark,,Neutral,0,0,Imperial Guard,57,100,86,86,86,86,1.05,1,83.5,87.675
+Grandmaster,En Dwi Gast,,Neutral,0,0,Elders of the Universe,86,57,100,100,86,29,1.1,2,76.33,83.963
+Havok,Alexander Summers,,Good,1,0,X-Men,43,29,29,43,86,43,1,0,45.5,45.5
+Hercules,Heracles,,Good,1,0,Avengers,57,100,71,100,14,100,1.1,0,73.67,81.037
+Imperial Guard,,,Good,1,1,Imperial Guard,57,100,86,86,86,86,1.05,1,83.5,87.675
+Juggernaut,Cain Marko,,Neutral,0,0,Thunderbolts,29,100,57,100,14,43,1.1,2,57.17,62.887
+Kang,Nathaniel Richards,,Bad,0,0,None,57,29,100,71,86,43,1.05,1,64.33,67.5465
+Karnak,,,Good,1,0,Inhumans,70,75,50,60,65,100,1.05,1,70,73.5
+Korvac,Michael Korvac,,Bad,0,0,Minions of Menace,75,40,40,40,50,40,1,0,47.5,47.5
+Marvel Boy,Noh-Varr,,Good,1,0,Avengers,57,57,43,43,14,57,1,0,45.17,45.17
+Morg,Morg,,Bad,0,0,Heralds of Galactus,50,75,90,80,90,90,1.05,1,79.17,83.1285
+Nightmare,,,Bad,0,0,Fear Lords,57,86,100,100,100,43,1.15,3,81,93.15
+Nitro,Robert Hunter,,Bad,0,0,Lunatic Legion,100,71,57,71,71,86,1.05,1,76,79.8
+Nova (Frankie Raye),Frankie Raye,,Neutral,0,0,Heralds of Galactus,85,60,100,100,100,35,1.15,3,80,92
+Odin,Odin Borson,,Good,1,0,Asguardians,100,85,70,95,100,90,1.15,3,90,103.5
+Quasar (Phyla-Vell),Phyla-Vell,,Good,1,0,Guardians of the Galaxy,57,71,100,57,71,57,1.05,1,68.83,72.2715
+Quicksilver,Pietro Django Maximoff,,Neutral,0,0,X-Factor,43,29,100,29,29,57,1.05,1,47.83,50.2215
+Sif,Sif,Lady Sif,Good,1,0,Asguardians,57,71,57,71,14,71,1,0,56.83,56.83
+Sinister Six,,,Bad,0,1,Sinister Six,86,29,29,29,14,57,1,0,40.67,40.67
+Spectrum,Monica Rambeau,,Good,1,0,Squadron Supreme,43,29,86,57,86,57,1,0,59.67,59.67
+Starfox,Eros,,Good,1,0,Eternals,71,100,86,86,14,71,1.05,1,71.33,74.8965
+Swordsman,Andreas von Strucker,,Bad,0,0,Hydra,100,71,100,86,100,100,1.2,4,92.83,111.396
+Terrax,Tyros,The Tamer,Bad,0,0,Heralds of Galactus,71,100,86,100,86,86,1.1,2,88.17,96.987
+Thing,Benjamin Grimes,,Good,1,0,Fantastic Four,29,86,29,86,14,57,1,0,50.17,50.17
+Thor Girl,Tarene,,Good,1,0,Asguardians,90,85,70,85,100,70,1.05,1,83.33,87.4965
+Ulik,,Ulik the Troll,Bad,0,0,Wrecking Crew,20,80,30,60,10,40,1,0,40,40
+Valkyrie (Samantha Parrington),Samantha Parrington,,Good,1,0,Defenders,57,86,71,71,29,71,1,0,64.17,64.17
